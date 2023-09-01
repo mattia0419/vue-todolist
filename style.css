@@ -1,0 +1,11 @@
+.item-done{
+    text-decoration: line-through;
+}
+.item{
+    display: flex;
+    justify-content: space-between;
+    padding: 0.5rem;
+    background-color: lightblue;
+    margin-bottom: 0.5rem;
+    cursor: pointer;
+}
